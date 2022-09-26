@@ -48,3 +48,19 @@ Homepage: unknown
 OE: enigma2
 License: none
 
+
+Package: enigma2-plugin-extensions-ajpanel
+Version: trek
+Depends: enigma2
+Section: trek
+Architecture: all
+MD5Sum: b6b8f58682a2f535da3e2daf27b59a1c
+Size: 279792
+Filename: enigma2-plugin-extensions-ajpanel_tarek_all_all.ipk
+Description: softcam key adder
+Maintainer: trek
+Priority: optional
+Source: none
+Homepage: unknown
+OE: enigma2
+License: none
