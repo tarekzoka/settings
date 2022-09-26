@@ -37,9 +37,9 @@ Version: trek
 Depends: enigma2
 Section: trek
 Architecture: all
-MD5Sum: edfcce179516f5affc738995731e2146
-Size: 279790
-Filename: enigma2-plugin-trek-ajpanel_trek-hanfy_all.ipk
+MD5Sum: b6b8f58682a2f535da3e2daf27b59a1c
+Size: 279792
+Filename: enigma2-enigma2-plugin-trek-ajpanel_tarek-hanfy_all.ipk
 Description: softcam key adder
 Maintainer: trek
 Priority: optional
@@ -64,3 +64,11 @@ Source: none
 Homepage: unknown
 OE: enigma2
 License: none
+
+
+
+
+
+
+
+
