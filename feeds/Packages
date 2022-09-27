@@ -1,4 +1,4 @@
-Package: enigma2-plugin-extensionsEmil-1-jediepgxtream-2.05
+Package: enigma2-plugin-extensionsTrek-1-jediepgxtream-2.05
 Version: emil-nabil
 Section: misc
 Priority: optional
@@ -11,7 +11,7 @@ Description: Jedi EPG Xtream
 Source: 
 
 
-Package: enigma2-plugin-emil-jediepgxtream-2.05
+Package: enigma2-plugin-tarek-jediepgxtream-2.05
 Version: emil-nabil
 Section: misc
 Priority: optional
@@ -24,7 +24,7 @@ Description: Jedi EPG Xtream
 Source: 
 
 
-Package: enigma2-plugin-extensionsEmil-1-xstreamity-3.74
+Package: enigma2-plugin-extensionsTrek-1-xstreamity-3.74
 Version: emil-nabil
 Section: misc
 Priority: optional
@@ -37,7 +37,7 @@ Description: IPTV Xtream Codes/XUI One playlists player by KiddaC
 Source: 
 
 
-Package: enigma2-plugin-emil-xstreamity-3.74
+Package: enigma2-plugin-tarek-xstreamity-3.74
 Version: emil-nabil
 Section: misc
 Priority: optional
